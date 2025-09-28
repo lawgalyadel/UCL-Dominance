@@ -1,0 +1,18 @@
+Date,Round,Venue,Opponent,GF,GA,Poss%,Shots_For,SoT_For,xG_For,xA_For,KP_For,Shots_Against,SoT_Against,xG_Against,Pass_Cmp%_For,Prog_Dist_For,Tackles_Won_For,Interceptions_For
+18/09/2024,League phase,Home,Girona,1,0,64,26,5,2.1,1.6,22,3,1,0.2,86,10728,15,21
+01/10/2024,League phase,Away,Arsenal,0,2,65,10,2,0.4,0.4,9,6,5,0.7,87.5,9859,23,31
+22/10/2024,League phase,Home,PSV Eindhoven,1,1,61,26,8,2.5,1.8,19,8,3,0.7,90.5,9054,18,31
+06/11/2024,League phase,Away,Atlético Madrid,1,2,71,22,9,2.1,1.5,16,4,3,0.7,89.4,13844,10,20
+26/11/2024,League phase,Away,Bayern Munich,0,1,43,11,3,0.8,0.7,9,18,7,2.4,77.4,5949,25,35
+10/12/2024,League phase,Away,RB Salzburg,3,0,70,15,8,3.2,2.8,12,3,1,0.2,89.6,14091,22,31
+22/01/2025,League phase,Home,Manchester City,4,2,63,26,8,2.8,1.9,17,9,6,1.7,88.8,10360,19,30
+29/01/2025,League phase,Away,Stuttgart,4,1,58,13,6,2.4,2.4,13,10,2,0.8,86.9,9781,17,21
+11/02/2025,Knockout phase play-offs,Away,Brest,3,0,62,15,6,2.6,1.4,11,16,2,0.9,87.8,9282,16,28
+19/02/2025,Knockout phase play-offs,Home,Brest,7,0,68,20,9,3.2,3,17,13,2,0.9,88.6,11780,13,19
+05/03/2025,Round of 16,Home,Liverpool,0,1,70,27,9,1.6,1.2,21,2,1,0.3,88.5,10694,20,28
+11/03/2025,Round of 16,Away,Liverpool,1,0,54,21,8,2.6,1.2,16,19,2,1.5,83.8,9679,33,48
+09/04/2025,Quarter-finals,Home,Aston Villa,3,1,75,29,10,1.9,1.8,27,7,2,0.9,93.1,12028,14,23
+15/04/2025,Quarter-finals,Away,Aston Villa,2,3,65,14,7,1.5,1.1,12,17,8,1.8,87.1,9484,24,33
+29/04/2025,Semi-finals,Away,Arsenal,1,0,46,11,4,1.2,1.1,10,10,5,1.8,85.6,6778,24,29
+07/05/2025,Semi-finals,Home,Arsenal,2,1,46,10,5,1.7,0.7,8,19,4,2.8,85.1,7561,30,44
+31/05/2025,Final,Neutral,Inter,5,0,58,23,8,3.1,2.3,19,8,2,0.5,87.8,8499,13,21

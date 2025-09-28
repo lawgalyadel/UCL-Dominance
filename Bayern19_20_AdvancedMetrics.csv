@@ -1,0 +1,12 @@
+Date,Round,Venue,Opponent,GF,GA,Poss%,Shots_For,SoT_For,xG_For,xA_For,KP_For,Shots_Against,SoT_Against,xG_Against,Pass_Cmp%_For,Prog_Dist_For,Tackles_Won_For,Interceptions_For
+18/09/2019,Group stage,Home,Red Star,3,0,73,34,9,4.3,2.7,23,7,0,0.3,86.8,12558,17,24
+01/10/2019,Group stage,Away,Tottenham,7,2,59,19,10,1.3,0.9,15,14,6,1.9,84.2,9674,15,26
+22/10/2019,Group stage,Away,Olympiacos,3,2,59,17,6,2.6,1.6,14,10,3,0.5,85.9,10302,16,26
+06/11/2019,Group stage,Home,Olympiacos,2,0,69,27,11,3.3,2.6,23,3,0,0.2,86.3,11823,18,26
+26/11/2019,Group stage,Away,Red Star,6,0,71,28,15,4.9,3.5,19,3,1,0.2,84.8,11541,15,30
+11/12/2019,Group stage,Home,Tottenham,3,1,70,24,11,2.9,1.3,15,7,5,1,85.5,11448,19,27
+25/02/2020,Round of 16,Away,Chelsea,3,0,63,16,6,3.4,2.8,14,9,3,1.1,86.9,11394,16,28
+08/08/2020,Round of 16,Home,Chelsea,4,1,63,17,6,2.9,1.9,15,10,4,1,87,11272,19,26
+14/08/2020,Quarter-finals,Neutral,Barcelona,8,2,49,26,13,5.3,4.5,20,7,5,1.1,85.6,7263,11,24
+19/08/2020,Semi-finals,Neutral,Lyon,3,0,65,19,8,3.2,2,12,9,3,1.8,85.9,10346,24,31
+23/08/2020,Final,Neutral,Paris S-G,1,0,61,12,2,1.5,1,7,10,3,1.1,81.9,8340,19,30

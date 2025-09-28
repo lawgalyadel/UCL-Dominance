@@ -1,0 +1,14 @@
+Date,Round,Venue,Opponent,GF,GA,Poss%,Shots_For,SoT_For,xG_For,xA_For,KP_For,Shots_Against,SoT_Against,xG_Against,Pass_Cmp%_For,Prog_Dist_For,Tackles_Won_For,Interceptions_For
+15/09/2021,Group stage,Away,Inter,1,0,53,12,2,1.2,1.2,12,18,5,2.4,86.4,8724,17,28
+28/09/2021,Group stage,Home,Sheriff Tiraspol,1,2,75,30,10,3.1,1.8,25,4,3,0.4,85.1,11241,18,22
+19/10/2021,Group stage,Away,Shakhtar,5,0,58,23,10,2.6,2.4,18,7,4,0.7,90.2,10954,17,25
+03/11/2021,Group stage,Home,Shakhtar,2,1,54,13,6,2,1.9,11,13,5,1.3,90.7,11006,16,23
+24/11/2021,Group stage,Away,Sheriff Tiraspol,3,0,69,17,8,1.5,1.2,13,12,5,1.4,89.8,10195,17,29
+07/12/2021,Group stage,Home,Inter,2,0,50,15,5,1.2,1.2,14,17,3,0.9,90.5,8591,6,16
+15/02/2022,Round of 16,Away,Paris S-G,0,1,43,3,0,0.2,0.2,3,20,7,2,85.2,7249,20,31
+09/03/2022,Round of 16,Home,Paris S-G,3,1,44,21,7,2,1.2,12,10,4,0.8,84,6755,22,34
+06/04/2022,Quarter-finals,Away,Chelsea,3,1,43,8,5,1.8,0.7,6,20,5,1.3,82.9,6453,17,26
+12/04/2022,Quarter-finals,Home,Chelsea,2,3,43,10,4,1.2,1.1,7,28,7,2.7,81.5,8414,30,39
+26/04/2022,Semi-finals,Away,Manchester City,3,4,41,10,4,1.6,0.8,10,16,5,2.7,80.4,5560,9,22
+04/05/2022,Semi-finals,Home,Manchester City,3,1,45,13,4,2.3,1.4,10,15,9,1.4,79.6,8106,24,36
+28/05/2022,Final,Neutral,Liverpool,1,0,46,4,1,0.9,0.8,3,24,9,2.2,82.1,7272,23,37
